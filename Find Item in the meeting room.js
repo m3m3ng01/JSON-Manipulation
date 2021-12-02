@@ -22,8 +22,22 @@
       "room_id": 3,
       "name": "Meeting Room"
     }
-  }
-    
+  },
+    "inventory_id": 9380,
+    "name": "Big Desk",
+    "type": "furniture",
+    "tags": [
+      "desk",
+      "furniture",
+      "brown"
+    ],
+    "purchased_at": 1579190642,
+    "placement": {
+      "room_id": 3,
+      "name": "Meeting Room"
+}
+
+
 
     }`;
     
